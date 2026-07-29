@@ -174,7 +174,7 @@ Supply-Chain-Analysis
 ---
 
 # 📷 Dashboard Preview
-<img width="1293" height="740" alt="image" src="https://github.com/user-attachments/assets/e360f7e0-1e73-4459-8a53-26a514c9d224" />
+<img width="1316" height="741" alt="image" src="https://github.com/user-attachments/assets/c726e3bb-0db1-4643-9052-dcfa9597644e" />
 
 ```
 Images/Dashboard.png
@@ -230,6 +230,6 @@ The project covers the complete analytics workflow:
 
 **Name:** Thrusha Sahu
 
-**LinkedIn:** Your LinkedIn Profile
+**LinkedIn:** https://www.linkedin.com/in/thrusha-sahu-852293152/
 
 **GitHub:** Your GitHub Profile
