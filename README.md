@@ -174,8 +174,7 @@ Supply-Chain-Analysis
 ---
 
 # 📷 Dashboard Preview
-
-(Add your dashboard screenshot here)
+<img width="1293" height="740" alt="image" src="https://github.com/user-attachments/assets/e360f7e0-1e73-4459-8a53-26a514c9d224" />
 
 ```
 Images/Dashboard.png
